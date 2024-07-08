@@ -1,4 +1,5 @@
-#Vue3_net6_msSQL
+# Vue3_net6_msSQL
+
 1 創建 於db中 table script.sql
 
 2 webapi 中 HostBuilderExtend.cs 修改連線字串
