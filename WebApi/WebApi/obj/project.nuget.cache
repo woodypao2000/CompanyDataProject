@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "izp2mcCsTMqtjvS7sIzTt7RrF6+dirVFkPeu54yoTkg6xKYegquuy+eK4/86El0Phyh1T1TidU0dhAbtVDB5PA==",
+  "dgSpecHash": "OOcbWO0pKlY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ASVTUSER\\Desktop\\Vue3_net6_msSQL\\WebApi\\WebApi\\WebApi.csproj",
+  "projectFilePath": "C:\\Users\\ASVTUSER\\Desktop\\新增資料夾\\CompanyDataProject\\WebApi\\WebApi\\WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ASVTUSER\\.nuget\\packages\\autofac\\8.0.0\\autofac.8.0.0.nupkg.sha512",
     "C:\\Users\\ASVTUSER\\.nuget\\packages\\autofac.extensions.dependencyinjection\\9.0.0\\autofac.extensions.dependencyinjection.9.0.0.nupkg.sha512",

@@ -3,7 +3,7 @@
     <h1></h1>
     <div>
       <el-button type="primary" @click="toPage('/content')">select</el-button>
-      <el-button type="primary" @click="toPage('/login')">insert</el-button>
+      <el-button type="primary" @click="toPage('/dataform')">insert</el-button>
       <router-link to ="/">路由連結</router-link>
     </div>
     <hr/>

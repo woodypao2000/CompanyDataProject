@@ -1,0 +1,186 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASVTUSER\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\CompanyDataProject\\WebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASVTUSER\\Desktop\\C_sharp_practice\\Vue3_net6_msSQL\\view\\package-lock.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7D019A-03D0-44DE-9DAE-7A1965E39635}|WebApi\\WebApi.csproj|c:\\users\\asvtuser\\desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\companydataproject\\webapi\\webapi\\modle\\companydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D7D019A-03D0-44DE-9DAE-7A1965E39635}|WebApi\\WebApi.csproj|solutionrelative:webapi\\modle\\companydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7D019A-03D0-44DE-9DAE-7A1965E39635}|WebApi\\WebApi.csproj|c:\\users\\asvtuser\\desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\companydataproject\\webapi\\webapi\\config\\hostbuilderextend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D7D019A-03D0-44DE-9DAE-7A1965E39635}|WebApi\\WebApi.csproj|solutionrelative:webapi\\config\\hostbuilderextend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7D019A-03D0-44DE-9DAE-7A1965E39635}|WebApi\\WebApi.csproj|c:\\users\\asvtuser\\desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\companydataproject\\webapi\\webapi\\config\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D7D019A-03D0-44DE-9DAE-7A1965E39635}|WebApi\\WebApi.csproj|solutionrelative:webapi\\config\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7D019A-03D0-44DE-9DAE-7A1965E39635}|WebApi\\WebApi.csproj|c:\\users\\asvtuser\\desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\companydataproject\\webapi\\webapi\\config\\autofacmoduleregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D7D019A-03D0-44DE-9DAE-7A1965E39635}|WebApi\\WebApi.csproj|solutionrelative:webapi\\config\\autofacmoduleregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7D019A-03D0-44DE-9DAE-7A1965E39635}|WebApi\\WebApi.csproj|c:\\users\\asvtuser\\desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\companydataproject\\webapi\\webapi\\controllers\\toolcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D7D019A-03D0-44DE-9DAE-7A1965E39635}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\toolcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7D019A-03D0-44DE-9DAE-7A1965E39635}|WebApi\\WebApi.csproj|c:\\users\\asvtuser\\desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\companydataproject\\webapi\\webapi\\modle\\ibase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D7D019A-03D0-44DE-9DAE-7A1965E39635}|WebApi\\WebApi.csproj|solutionrelative:webapi\\modle\\ibase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7D019A-03D0-44DE-9DAE-7A1965E39635}|WebApi\\WebApi.csproj|c:\\users\\asvtuser\\desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\companydataproject\\webapi\\webapi\\interface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D7D019A-03D0-44DE-9DAE-7A1965E39635}|WebApi\\WebApi.csproj|solutionrelative:webapi\\interface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7D019A-03D0-44DE-9DAE-7A1965E39635}|WebApi\\WebApi.csproj|c:\\users\\asvtuser\\desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\companydataproject\\webapi\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D7D019A-03D0-44DE-9DAE-7A1965E39635}|WebApi\\WebApi.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7D019A-03D0-44DE-9DAE-7A1965E39635}|WebApi\\WebApi.csproj|c:\\users\\asvtuser\\desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\companydataproject\\webapi\\webapi\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D7D019A-03D0-44DE-9DAE-7A1965E39635}|WebApi\\WebApi.csproj|solutionrelative:webapi\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "package-lock.json",
+              "DocumentMoniker": "C:\\Users\\ASVTUSER\\Desktop\\C_sharp_practice\\Vue3_net6_msSQL\\view\\package-lock.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\C_sharp_practice\\Vue3_net6_msSQL\\view\\package-lock.json",
+              "ToolTip": "C:\\Users\\ASVTUSER\\Desktop\\C_sharp_practice\\Vue3_net6_msSQL\\view\\package-lock.json",
+              "RelativeToolTip": "..\\..\\..\\C_sharp_practice\\Vue3_net6_msSQL\\view\\package-lock.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-09T07:43:08.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CompanyData.cs",
+              "DocumentMoniker": "C:\\Users\\ASVTUSER\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\CompanyDataProject\\WebApi\\WebApi\\modle\\CompanyData.cs",
+              "RelativeDocumentMoniker": "WebApi\\modle\\CompanyData.cs",
+              "ToolTip": "C:\\Users\\ASVTUSER\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\CompanyDataProject\\WebApi\\WebApi\\modle\\CompanyData.cs",
+              "RelativeToolTip": "WebApi\\modle\\CompanyData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T05:12:43.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HostBuilderExtend.cs",
+              "DocumentMoniker": "C:\\Users\\ASVTUSER\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\CompanyDataProject\\WebApi\\WebApi\\config\\HostBuilderExtend.cs",
+              "RelativeDocumentMoniker": "WebApi\\config\\HostBuilderExtend.cs",
+              "ToolTip": "C:\\Users\\ASVTUSER\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\CompanyDataProject\\WebApi\\WebApi\\config\\HostBuilderExtend.cs",
+              "RelativeToolTip": "WebApi\\config\\HostBuilderExtend.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T05:12:43.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Ibase.cs",
+              "DocumentMoniker": "C:\\Users\\ASVTUSER\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\CompanyDataProject\\WebApi\\WebApi\\modle\\Ibase.cs",
+              "RelativeDocumentMoniker": "WebApi\\modle\\Ibase.cs",
+              "ToolTip": "C:\\Users\\ASVTUSER\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\CompanyDataProject\\WebApi\\WebApi\\modle\\Ibase.cs",
+              "RelativeToolTip": "WebApi\\modle\\Ibase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T05:12:43.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AutofacModuleRegister.cs",
+              "DocumentMoniker": "C:\\Users\\ASVTUSER\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\CompanyDataProject\\WebApi\\WebApi\\config\\AutofacModuleRegister.cs",
+              "RelativeDocumentMoniker": "WebApi\\config\\AutofacModuleRegister.cs",
+              "ToolTip": "C:\\Users\\ASVTUSER\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\CompanyDataProject\\WebApi\\WebApi\\config\\AutofacModuleRegister.cs",
+              "RelativeToolTip": "WebApi\\config\\AutofacModuleRegister.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T05:12:43.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class.cs",
+              "DocumentMoniker": "C:\\Users\\ASVTUSER\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\CompanyDataProject\\WebApi\\WebApi\\config\\Class.cs",
+              "RelativeDocumentMoniker": "WebApi\\config\\Class.cs",
+              "ToolTip": "C:\\Users\\ASVTUSER\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\CompanyDataProject\\WebApi\\WebApi\\config\\Class.cs",
+              "RelativeToolTip": "WebApi\\config\\Class.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T05:12:43.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASVTUSER\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\CompanyDataProject\\WebApi\\WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\ASVTUSER\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\CompanyDataProject\\WebApi\\WebApi\\Program.cs",
+              "RelativeToolTip": "WebApi\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAwCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T05:12:43.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Service.cs",
+              "DocumentMoniker": "C:\\Users\\ASVTUSER\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\CompanyDataProject\\WebApi\\WebApi\\Service.cs",
+              "RelativeDocumentMoniker": "WebApi\\Service.cs",
+              "ToolTip": "C:\\Users\\ASVTUSER\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\CompanyDataProject\\WebApi\\WebApi\\Service.cs",
+              "RelativeToolTip": "WebApi\\Service.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T05:12:43.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Interface.cs",
+              "DocumentMoniker": "C:\\Users\\ASVTUSER\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\CompanyDataProject\\WebApi\\WebApi\\Interface.cs",
+              "RelativeDocumentMoniker": "WebApi\\Interface.cs",
+              "ToolTip": "C:\\Users\\ASVTUSER\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\CompanyDataProject\\WebApi\\WebApi\\Interface.cs",
+              "RelativeToolTip": "WebApi\\Interface.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T05:12:43.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ToolController.cs",
+              "DocumentMoniker": "C:\\Users\\ASVTUSER\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\CompanyDataProject\\WebApi\\WebApi\\Controllers\\ToolController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\ToolController.cs",
+              "ToolTip": "C:\\Users\\ASVTUSER\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\CompanyDataProject\\WebApi\\WebApi\\Controllers\\ToolController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\ToolController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T05:12:42.945Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
